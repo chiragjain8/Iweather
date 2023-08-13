@@ -2,7 +2,9 @@
 
 A Multiclass weather classifier
 
-Overview: The Multiclass Weather Prediction System is a machine learning-based application that accurately classifies and predicts weather conditions into multiple classes. This system utilizes historical weather data and advanced algorithms to provide real-time forecasts, empowering users to make informed decisions based on expected weather patterns.
+Overview: 
+
+The Multiclass Weather Prediction System is a machine learning-based application that accurately classifies and predicts weather conditions into multiple classes. This system utilizes historical weather data and advanced algorithms to provide real-time forecasts, empowering users to make informed decisions based on expected weather patterns.
 
 Features:
 
@@ -24,7 +26,9 @@ Generate predictions: Once the model is trained, run the system to generate real
 
 Interpret the results: Use the user-friendly interface to interpret and utilize the weather predictions for decision-making purposes. The interface may include visualizations, statistics, and other relevant information.
 
-Contributing: Contributions to the Multiclass Weather Prediction System are welcome! If you would like to contribute, please follow these steps:
+Contributing: 
+
+Contributions to the Multiclass Weather Prediction System are welcome! If you would like to contribute, please follow these steps:
 
 Fork the repository.
 Create a new branch for your contribution.
