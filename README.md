@@ -1,6 +1,4 @@
-# Iweather
-
-A Multiclass weather classifier
+# Iweather - A Multiclass weather classifier
 
 Overview: 
 
